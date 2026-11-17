@@ -7,7 +7,7 @@ Assistente digital introdutório para **pessoas comuns que moram em casas ou apa
 ## Integrantes
 | Nome completo | RM |
 |---|---|
-| André Balan Felix dos Santos | 571691 |
+| André Felix | 571691 |
 | Gabriel Silveira | 568910 |
 | Isabela Camargo | 569196 |
 
@@ -42,7 +42,7 @@ python assistente_citizentech.py --exportar-analise # análise comparativa (Mark
 |---|---|
 | `assistente_citizentech.py` | código do assistente, simulador, calculadora, avaliação e web |
 | `base_conhecimento.csv` | base de conhecimento com fontes |
-| `dados_premissas.csv` | **todos os números usados nos cálculos**, com unidade, tipo (oficial, mercado, calculado, premissa), origem e link (abra com leitor de csv ou as fontes não irão dar erro 404)|
+| `dados_premissas.csv` | **todos os números usados nos cálculos**, com unidade, tipo (oficial, mercado, calculado, premissa), origem e link (abra com leitor de csv ou as fontes irão dar erro 404)|
 | `analise_energia.md` | método, comparação das alternativas para 3 casos de referência, justificativas, limitações e referências |
 
 ## Método e justificativas (resumo)
